@@ -1,11 +1,19 @@
-<h2 align="left">Hi! I am Wilian Zembrani</h2>
+<h2 align="left" >Greetings! I'm Wilian Zembrani!</h2>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilianZembrani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianZembrani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=WilianZembrani&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+
+
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=WilianZembrani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> 
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianZembrani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> 
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=WilianZembrani&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilianZembrani&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
 </div>
 
@@ -56,8 +64,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/WilianZembrani/WilianZembrani/output/snake.svg" alt="Snake animation" />
-
-###
