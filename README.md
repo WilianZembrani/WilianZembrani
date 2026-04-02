@@ -1,67 +1,78 @@
-<h2 align="left" >Greetings! I'm Wilian Zembrani!</h2>
+<h1 align="center">Hi 👋, I'm Wilian Zembrani</h1>
+<h3 align="center">Full Stack Developer | React | Node.js | MySQL</h3>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue" />
+  <img src="https://img.shields.io/badge/Lives-Brazil-green" />
+  <img src="https://img.shields.io/badge/Learning-Backend-orange" />
+</p>
 
+---
 
+## 🚀 About Me
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=WilianZembrani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> 
-  <br>
+I'm a Full Stack Developer focused on building real-world applications.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianZembrani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> 
-  <br>
+I enjoy creating systems that solve practical problems — from management platforms to scalable APIs.
 
-  <img src="https://streak-stats.demolab.com?user=WilianZembrani&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <br>
+Currently improving my backend skills and system architecture knowledge.
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilianZembrani&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
-</div>
+---
 
-###
+## 🔥 Current Focus
 
-<br clear="both">
+* 🚀 Building management systems with React & Node.js
+* 📚 Studying backend architecture and best practices
+* 💡 Focused on clean code and scalable applications
 
-<h3 align="center">Skills</h3>
+---
 
-###
+## 🛠️ Tech Stack
+
+**Frontend:** React, HTML, CSS, Tailwind
+**Backend:** Node.js, Express
+**Database:** MySQL
+**Tools:** Docker, Git
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=WilianZembrani&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianZembrani&layout=compact&theme=github_dark&hide_border=true" height="180" />
+
+<img src="https://streak-stats.demolab.com?user=WilianZembrani&theme=github_dark&hide_border=true" height="180" />
+
 </div>
-###
 
-<h3 align="center">About me</h3>
+---
 
-###
+## 📈 Activity Graph
 
-<p align="center">Inspired by the timeless wisdom of the Latin expressions "Memento Mori" and "Carpe Diem," I am on a continuous journey of learning and professional growth. My academic background includes a degree in Systems Analysis and Development, along with several certifications in development courses.<br><br>I am passionate about technology, innovation, and education. I am committed to using my knowledge to act as a catalyst for progress and innovation in all areas I explore. I am always eager and prepared to face new challenges, continuously seeking opportunities for growth and learning.</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilianZembrani&theme=github-dark&hide_border=true" />
+</div>
 
-###
 
-<h2 align="left">Social Media</h2>
 
-###
+---
 
-<div align="left">
+## 🌐 Connect with me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/wilian-zembrani-piaseski-498003275/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/wilianzembran/?hl=pt-br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/wilianzembran/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram" />
   </a>
 </div>
 
+---
+
+## ⚡ Fun Fact
+
+I believe in *Carpe Diem* and *Memento Mori* — using time wisely and always evolving.
